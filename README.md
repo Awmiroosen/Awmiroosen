@@ -2,11 +2,11 @@
 
 ### junior frontend developer
 
-- 🌱 I'm currently learning **learning frontend tecnologies**
+- 🌱 I'm currently learning **frontend tecnologies**
 
-- 👨‍💻 All of my projects are available at **[https://awmirosen.ir](https://awmirosen.ir)**
+- 👨‍💻 All of my projects are available at **[awmirosen.ir](https://awmirosen.ir)**
 
-- 📝 I regularly write articles on **[https://awmirosen.ir/blog](https://awmirosen.ir/blog)**
+- 📝 I regularly write articles on **[awmirosen.ir/blog](https://awmirosen.ir/blog)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
